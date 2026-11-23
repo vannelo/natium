@@ -272,3 +272,4 @@ No remote Supabase or Vercel project exists yet. [docs/deployment.md](docs/deplo
 - [CLAUDE.md](CLAUDE.md) — conventions for AI-assisted development
 
 Keep this guide in sync when the setup or conventions change.
+# natium
